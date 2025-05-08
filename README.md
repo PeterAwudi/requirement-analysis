@@ -28,11 +28,11 @@ Requirement Analysis is the process of understanding what a software system shou
 
 Requirement Analysis is a key step in the SDLC because:
 
-- **Clarity 🔍**: It helps everyone understand the goal of the software.  
-- **Planning 📅**: It helps developers plan how much time and resources will be needed.  
-- **Avoids Mistakes 🚫**: It prevents developers from building the wrong features.  
-- **Saves Money 💸**: Finding mistakes early (during planning) is cheaper than fixing them later.  
-- **Improves Quality 💯**: When requirements are clear, the final product is more likely to meet user expectations.  
+- *Clarity 🔍*: It helps everyone understand the goal of the software.  
+- *Planning 📅*: It helps developers plan how much time and resources will be needed.  
+- *Avoids Mistakes 🚫*: It prevents developers from building the wrong features.  
+- *Saves Money 💸*: Finding mistakes early (during planning) is cheaper than fixing them later.  
+- *Improves Quality 💯*: When requirements are clear, the final product is more likely to meet user expectations.  
 
 ---
 
@@ -53,18 +53,18 @@ When developers understand exactly what the system should do, they can build it 
 
 ## Key Activities in Requirement Analysis 📝
 
-1. **Requirement Gathering 📊**: Collecting all possible requirements from clients, users, and stakeholders.  
-2. **Requirement Elicitation 💬**: Drawing out more details from stakeholders to clarify unclear points.  
-3. **Requirement Documentation 📝**: Writing down all collected and clarified requirements in a clear, organized manner.  
-4. **Requirement Analysis and Modeling 📊**: Analyzing requirements to understand how they fit together and modeling them using diagrams or structured formats.  
-5. **Requirement Validation 📝**: Reviewing and confirming requirements with stakeholders to ensure they are complete, accurate, and agreed upon.  
+1. *Requirement Gathering 📊*: Collecting all possible requirements from clients, users, and stakeholders.  
+2. *Requirement Elicitation 💬*: Drawing out more details from stakeholders to clarify unclear points.  
+3. *Requirement Documentation 📝*: Writing down all collected and clarified requirements in a clear, organized manner.  
+4. *Requirement Analysis and Modeling 📊*: Analyzing requirements to understand how they fit together and modeling them using diagrams or structured formats.  
+5. *Requirement Validation 📝*: Reviewing and confirming requirements with stakeholders to ensure they are complete, accurate, and agreed upon.  
 
 ---
 
 ## Types of Requirements 📝
 
-1. **Functional Requirements 📊**: Defining the specific behavior or functions of a system.  
-2. **Non-functional Requirements 📈**: Specifying the quality attributes of a system.  
+1. *Functional Requirements 📊*: Defining the specific behavior or functions of a system.  
+2. *Non-functional Requirements 📈*: Specifying the quality attributes of a system.  
 
 ---
 
